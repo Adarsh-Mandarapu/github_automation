@@ -1,0 +1,11 @@
+*.cache
+*.condarc
+*.config
+*.ipython
+*.ivy2
+*.jupyter
+*.local
+*.bash_logout
+*.bash_profile
+*.bashrc
+notebook.json
